@@ -1,6 +1,8 @@
 # sizer
 The "Sizer" is a PowerShell utility that utilizes RoboCopy to quickly find the location of big files.
 
+<img src="https://github.com/Dustin5977/sizer/blob/main/FindBigFilesFast.jpg">
+
 The original post is located here:
 
 https://www.dhb-scripting.com/Forums/posts/t63-PowerShell-Disk-Sizer
